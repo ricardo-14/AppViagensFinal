@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppViagensFinal</string>
+    <string name="login">Login</string>
+    <string name="EsqueciSenha">Login</string>
+    <string name="cadastro">Cadastro</string>
+    <string name="home">Home</string>
+    <string name="viagens">Viagens</string>
+    <string name="formViagem">Form Viagens</string>
+    <string name="sobre">Sobre</string>
+    <string name="despesas">Despesas</string>
+</resources>
